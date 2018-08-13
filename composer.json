@@ -1,5 +1,6 @@
 {
     "name": "sudoku3698/todo",
+    "version": "dev-master",
     "description": "\"Simple todo package\"",
     "authors": [
         {
@@ -11,5 +12,8 @@
     	"psr-4":{
     		"Sudoku3698\\Todo\\":"src/"
     	}
+    },
+    "require":{
+        "illuminate/support":"~5"
     }
 }
