@@ -9,7 +9,7 @@
     ],
     "autoload":{
     	"psr-4":{
-    		"Sudoku3698\\Todo":"src/"
+    		"Sudoku3698\\Todo\\":"src/"
     	}
     },
     "require": {
