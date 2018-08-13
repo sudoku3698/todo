@@ -1,6 +1,6 @@
 <?php
 
-namespace Demo\Todo\Models;
+namespace Sudoku3698\Todo\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

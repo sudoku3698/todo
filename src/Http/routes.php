@@ -1,4 +1,4 @@
 <?php
 
 
-Route::get('todo','Demo\Todo\Http\Controllers\DemoTodoController@showtodos');
+Route::get('todo','Sudoku3698\Todo\Http\Controllers\DemoTodoController@showtodos');

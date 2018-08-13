@@ -1,6 +1,6 @@
 <?php
 
-namespace Demo\Todo;
+namespace Sudoku3698\Todo;
 
 use Illuminate\Support\ServiceProvider;
 
