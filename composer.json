@@ -11,8 +11,5 @@
     	"psr-4":{
     		"Sudoku3698\\Todo\\":"src/"
     	}
-    },
-    "require": {
-    	"illuminate/support":"~5"
     }
 }
